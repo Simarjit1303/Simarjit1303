@@ -48,7 +48,7 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
       </p>
-      <p>📊 27 countries · €110B+ · EU signature color scheme (#004494 / #FFD617)</p>
+      <p>📊 27 countries · €110B+ · EU-branded color scheme · Policy-focused storytelling</p>
     </td>
   </tr>
   <tr>
