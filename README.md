@@ -38,7 +38,7 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
       </p>
       <p>✅ GPT-4o-mini · Tesseract OCR · RapidFuzz · Nginx · Let's Encrypt · 20+ pytest unit tests</p>
-      <p>🔗 <a href="https://github.com/Simarjit1303">View on GitHub</a> · <em>Demo available on request</em></p>
+    </td>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 EU Fossil Fuel Subsidies Analysis</h3>
@@ -74,6 +74,16 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+### 🗂️ Want to see more?
+
+[![View All Projects](https://img.shields.io/badge/📁_View_All_Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simarjit1303/Projects)
+
+*Click above to explore full project code, notebooks, and documentation.*
+
+</div>
 
 ---
 
@@ -158,20 +168,6 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simarjit1303@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simarjit_singh_malhar/)
 [![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Simarjit_Singh04908/web_profiles)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simarjit1303&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Simarjit1303&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simarjit1303&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
