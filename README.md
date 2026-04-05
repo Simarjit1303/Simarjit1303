@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Engineer+in+Training;Python+%7C+SQL+%7C+Power+BI+%7C+LangChain;Building+real+things+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-simarjit.de-00D9FF?style=for-the-badge)](https://www.simarjit.de)
+
 </div>
 
 ---
@@ -18,6 +20,7 @@ I'm a data science student based in Berlin, building at the intersection of mach
 I like things that actually ship. If it doesn't run in Docker or hit a real endpoint, it's not done.
 
 - 🌍 Based in **Berlin**, open to on-site, hybrid, and remote roles across Germany
+- 🌐 Portfolio: **[simarjit.de](https://www.simarjit.de)** — interactive WebGL 3D experience built from scratch
 - 🗣️ Learning German (slowly winning, as the chess players say — *Schach matt!*)
 - ♟️ Chess player, weekend city explorer, occasional procrastinator
 
@@ -38,7 +41,6 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
       </p>
       <p>✅ GPT-4o-mini · Tesseract OCR · RapidFuzz · Nginx · Let's Encrypt · 20+ pytest unit tests</p>
-    </td>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 EU Fossil Fuel Subsidies Analysis</h3>
@@ -80,6 +82,7 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 ### 🗂️ Want to see more?
 
 [![View All Projects](https://img.shields.io/badge/📁_View_All_Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simarjit1303/Projects)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Live_Portfolio-simarjit.de-00D9FF?style=for-the-badge)](https://www.simarjit.de)
 
 *Click above to explore full project code, notebooks, and documentation.*
 
@@ -115,13 +118,21 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+**Web & Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 **Databases**
 
@@ -164,6 +175,7 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-simarjit.de-00D9FF?style=for-the-badge)](https://www.simarjit.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simar-jit-singh)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simarjit1303@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simarjit_singh_malhar/)
