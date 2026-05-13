@@ -164,11 +164,15 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 ## 🏅 Certifications
 
 - 🏆 **Mayerfeld Practicum Program** — [View Credential](https://credsverse.com/credentials/a039efd3-ecf5-4a8a-87f4-844d4c245ac2)
-- 🎓 **Google Advanced Data Analytics** — Google
-- 🤖 **Google AI Professional Certificate** — Google
-- ✨ **Google Prompting Essentials** — Google
-- ☁️ **Google Cloud Data Analytics** — Google
-- 📊 **Data Analyst in Power BI** — DataCamp *(in progress)*
+- 🤖 **Google AI Professional Certificate** — [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/LUSNVR4VN7UW)
+- 🧠 **Google AI Essentials** — [View Credential](https://www.coursera.org/account/accomplishments/specialization/HOM2AMDIQHE4)
+- 🌟 **Google Gen AI Leader** — [View Credential](https://www.skills.google/public_profiles/814efbb9-3247-4f4f-b9bc-bcfbc646c2a9)
+- ✨ **Google Prompting Essentials** — [View Credential](https://www.coursera.org/account/accomplishments/specialization/ZBMF3YY1VWOU)
+- 📊 **Google Data Analytics** — [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/U5LCGZHJT634)
+- 🐍 **100 Days of Code: The Complete Python Pro Bootcamp** — [View Credential](https://ude.my/UC-87e954c7-f3f1-47fc-b0d0-64b556c801d5)
+- 🎓 **Google Advanced Data Analytics** — Google *(in progress)*
+- ☁️ **Google Cloud Data Analytics** — Google *(in progress)*
+- 📈 **Data Analyst in Power BI** — DataCamp *(in progress)*
 
 ---
 
