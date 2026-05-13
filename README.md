@@ -75,6 +75,29 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
       <p>🎯 98% validation accuracy · Custom CNN · Mobile-optimised architecture</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 E-Commerce Customer Behaviour</h3>
+      <p>EDA and hypothesis testing on a 4-table e-commerce dataset — 10K customers, 45K transactions, 70K sessions. Ten statistical tests (t-test, chi-squared, Pearson r), Cohen's d effect sizes, and business insights on discount impact and revenue trends.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+      </p>
+      <p>📈 10 statistical tests · Cohen's d · 4-table dataset · Business insights</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗞️ Fake News Detection — NLP</h3>
+      <p>Three-model NLP comparison on the WELFake dataset — 72,134 news articles across 4 benchmark sources. TF-IDF feature extraction with Logistic Regression (96.22%), Random Forest (95.09%), and ANN (96.12%). Live demo flags fabricated content at 99.97% confidence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+      </p>
+      <p>🎯 96.22% accuracy · TF-IDF · 72,134 articles · 3-model comparison</p>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
@@ -107,7 +130,11 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3E4D6C?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
