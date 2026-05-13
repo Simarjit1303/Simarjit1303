@@ -163,11 +163,11 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 
 ## 🏅 Certifications
 
+- 🏆 **Mayerfeld Practicum Program** — [View Credential](https://credsverse.com/credentials/a039efd3-ecf5-4a8a-87f4-844d4c245ac2)
 - 🎓 **Google Advanced Data Analytics** — Google
 - 🤖 **Google AI Professional Certificate** — Google
 - ✨ **Google Prompting Essentials** — Google
 - ☁️ **Google Cloud Data Analytics** — Google
-- 🏆 **Mayerfeld Practicum Program** — [View Credential](https://credsverse.com/credentials/a039efd3-ecf5-4a8a-87f4-844d4c245ac2)
 - 📊 **Data Analyst in Power BI** — DataCamp *(in progress)*
 
 ---
