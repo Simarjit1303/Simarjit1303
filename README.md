@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Simarjit Singh
 
 ### 🎓 MSc Data Science, AI & Digital Business · GISMA University of Applied Sciences, Berlin
-### 🔍 Actively seeking Working Student & Internship roles in Data Analytics / AI / ML in Germany
+### 🔍 Actively seeking Graduate roles in Data Analytics / AI / ML in Germany
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Engineer+in+Training;Python+%7C+SQL+%7C+Power+BI+%7C+LangChain;Building+real+things+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
