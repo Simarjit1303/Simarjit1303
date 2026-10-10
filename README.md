@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Simarjit Singh
 
 ### 🎓 MSc Data Science, AI & Digital Business · GISMA University of Applied Sciences, Berlin
-### 🔍 Actively seeking Graduate roles in Data Analytics / AI / ML in Germany
+### 🔍 Open to graduate, trainee and junior roles in Data Science / AI
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Engineer+in+Training;Python+%7C+SQL+%7C+Power+BI+%7C+LangChain;Building+real+things+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -15,13 +15,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a data science student based in Berlin, building at the intersection of machine learning and real-world impact. Before my MSc I worked as a **Junior Data Analyst and Python Instructor** at AISECT, where I taught 50+ students across 200+ hours of live sessions. Now I'm channelling that into building production-grade AI projects — think GenAI apps, NLP pipelines, and computer vision models.
+I've just finished my MSc Data Science & AI (GISMA, 2026) and I'm based in Berlin, building at the intersection of machine learning and real-world impact. My dissertation is an open-source security benchmark for RAG pipelines. Before my MSc I worked as a **Junior Data Analyst and Python Instructor** at AISECT, where I taught 50+ students across 200+ hours of live sessions. Since then I've built and deployed AI projects: GenAI apps, NLP pipelines, computer vision models and LLM security research.
 
 I like things that actually ship. If it doesn't run in Docker or hit a real endpoint, it's not done.
 
-- 🌍 Based in **Berlin**, open to on-site, hybrid, and remote roles across Germany
+- 🌍 Based in **Berlin**, open to on-site, hybrid and remote roles
 - 🌐 Portfolio: **[simarjit.de](https://www.simarjit.de)** — interactive WebGL 3D experience built from scratch
-- 🗣️ Learning German (slowly winning, as the chess players say — *Schach matt!*)
+- 🗣️ English (C1) · German (B1, actively learning — slowly winning, as the chess players say: *Schach matt!*)
 - ♟️ Chess player, weekend city explorer, occasional procrastinator
 
 ---
@@ -30,9 +30,24 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ MSc Dissertation: Adversarial Robustness of Open-Source RAG Pipelines</h3>
+      <p>A controlled benchmark of three attacks (indirect prompt injection, PoisonedRAG, Crescendo) against four open-weight LLMs (Llama-3.1-8B, Qwen3-8B, Phi-4-mini, Ministral-3-8B) inside a FAISS-backed RAG pipeline, plus three low-cost defenses. Exact paired statistics with Holm-Bonferroni correction, and a mapping of the results to EU AI Act Article 15. Only spotlighting showed a confirmed defensive effect, at a utility cost of about 0.28 F1.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat"/>
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+      </p>
+      <p>🔬 3 attacks · 4 LLMs · 3 defenses · McNemar / Fisher / bootstrap CIs · Reproducible from pinned versions · <a href="https://github.com/Simarjit1303/rag-adversarial-robustness">View repo</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📚 BookVault — AI Book Recommender</h3>
-      <p>GenAI-powered book recommendation system with dual-mode AI: find similar books via text or cover photo (OCR), or discover books by genre preferences. Built with full production setup — Docker, SSL, Nginx, and custom domain on AWS EC2.</p>
+      <p>GenAI-powered book recommendation system with dual-mode AI: find similar books via text or cover photo (OCR), or discover books by genre preferences. Deployed with Docker, SSL, Nginx and a custom domain on AWS EC2.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
@@ -181,7 +196,7 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 | Topic | Status |
 |-------|--------|
 | 🦜 LangChain & LlamaIndex | 🔄 In Progress |
-| 🗄️ Vector Databases (ChromaDB, Pinecone) | 🔄 In Progress |
+| 🗄️ Vector Databases (FAISS used in my dissertation; ChromaDB, Pinecone next) | 🔄 In Progress |
 | 📊 Power BI (DataCamp Professional Path) | 🔄 In Progress |
 | ☁️ Google Cloud Data Analytics | 🔄 In Progress |
 | 🔁 MLflow & Experiment Tracking | 🔄 In Progress |
@@ -191,12 +206,14 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 
 ## 🏅 Certifications
 
-- 🏆 **Mayerfeld Practicum Program** — [View Credential](https://credsverse.com/credentials/a039efd3-ecf5-4a8a-87f4-844d4c245ac2)
 - 🤖 **Google AI Professional Certificate** — [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/LUSNVR4VN7UW)
-- 🧠 **Google AI Essentials** — [View Credential](https://www.coursera.org/account/accomplishments/specialization/HOM2AMDIQHE4)
-- 🌟 **Google Gen AI Leader** — [View Credential](https://www.skills.google/public_profiles/814efbb9-3247-4f4f-b9bc-bcfbc646c2a9)
-- ✨ **Google Prompting Essentials** — [View Credential](https://www.coursera.org/account/accomplishments/specialization/ZBMF3YY1VWOU)
-- 📊 **Google Data Analytics** — [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/U5LCGZHJT634)
+- 🧠 **Google AI Essentials Specialization** — [View Credential](https://www.coursera.org/account/accomplishments/specialization/HOM2AMDIQHE4)
+- ✨ **Google Prompting Essentials Specialization** — [View Credential](https://www.coursera.org/account/accomplishments/specialization/ZBMF3YY1VWOU)
+- 📊 **Google Data Analytics Professional Certificate** — [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/U5LCGZHJT634)
+- 🏆 **Mayerfeld Practicum Program® in the field of Data Analysis** — [View Credential](https://credsverse.com/credentials/a039efd3-ecf5-4a8a-87f4-844d4c245ac2)
+- 🔬 **Microsoft Future Ready: Data Science Research Methods Using Python Programming** — [View Credential](https://www.futurelearn.com/certificates/1i4rzlz)
+- 🐼 **Introduction to Data Analytics with Python** — [View Credential](https://www.futurelearn.com/certificates/rllnf7s)
+- 📗 **Excel Skills to Make an Impression** — [View Credential](https://www.futurelearn.com/certificates/tg9p1yg)
 - 🐍 **100 Days of Code: The Complete Python Pro Bootcamp** — [View Credential](https://ude.my/UC-87e954c7-f3f1-47fc-b0d0-64b556c801d5)
 - 🎓 **Google Advanced Data Analytics** — Google *(in progress)*
 - ☁️ **Google Cloud Data Analytics** — Google *(in progress)*
