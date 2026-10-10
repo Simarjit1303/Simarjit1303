@@ -191,19 +191,6 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 
 ---
 
-## 📚 Currently Learning
-
-| Topic | Status |
-|-------|--------|
-| 🦜 LangChain & LlamaIndex | 🔄 In Progress |
-| 🗄️ Vector Databases (FAISS used in my dissertation; ChromaDB, Pinecone next) | 🔄 In Progress |
-| 📊 Power BI (DataCamp Professional Path) | 🔄 In Progress |
-| ☁️ Google Cloud Data Analytics | 🔄 In Progress |
-| 🔁 MLflow & Experiment Tracking | 🔄 In Progress |
-| 🔧 GitHub Actions & CI/CD | 🔄 In Progress |
-
----
-
 ## 🏅 Certifications
 
 - 🤖 **Google AI Professional Certificate** — [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/LUSNVR4VN7UW)
@@ -215,9 +202,6 @@ I like things that actually ship. If it doesn't run in Docker or hit a real endp
 - 🐼 **Introduction to Data Analytics with Python** — [View Credential](https://www.futurelearn.com/certificates/rllnf7s)
 - 📗 **Excel Skills to Make an Impression** — [View Credential](https://www.futurelearn.com/certificates/tg9p1yg)
 - 🐍 **100 Days of Code: The Complete Python Pro Bootcamp** — [View Credential](https://ude.my/UC-87e954c7-f3f1-47fc-b0d0-64b556c801d5)
-- 🎓 **Google Advanced Data Analytics** — Google *(in progress)*
-- ☁️ **Google Cloud Data Analytics** — Google *(in progress)*
-- 📈 **Data Analyst in Power BI** — DataCamp *(in progress)*
 
 ---
 
